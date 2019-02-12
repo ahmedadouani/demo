@@ -1,23 +1,24 @@
 {
-    "id": 1,
-    "pilot": {
-        "name": "Dark Vador",
-        "avatar": "/static/dark-vador.png",
-        "rating": 5.0
-    },
-    "distance": {
-        "value": 2478572,
-        "unit": "km"
-    },
-    "duration": 19427000,
-    "pick_up": {
-        "name": "Yavin 4",
-        "picture": "/static/yavin-4.png",
-        "date": "2017-12-09T14:12:51Z"
-    },
-    "drop_off": {
-        "name": "Naboo",
-        "picture": "/static/naboo.png",
-        "date": "2017-12-09T19:35:51Z"
-    }
+    "photos": [
+        {
+            "id": 1,
+            "desc": "Post 1"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg/280px-Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg"
+        },
+        {
+            "id": 2,
+            "desc": "Post 2"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg/280px-Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg"
+        },
+        {
+            "id": 3,
+            "desc": "Post 3"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg/280px-Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg"
+        },
+        {
+            "id": 4,
+            "desc": "Post 3"
+            "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg/280px-Solar_prominence_from_STEREO_spacecraft_September_29%2C_2008.jpg"
+        }
+    ]
 }
